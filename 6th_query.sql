@@ -2,7 +2,7 @@
 	p.product_id as p_product_id,
 	p.product_name as p_product_name,
 	p.category_id as p_category_id,
-	od.order_id as od_oderr_id,
+	od.order_id as od_order_id,
 	p2.product_id as p2_product_id
 from
 	eshop.products as p
