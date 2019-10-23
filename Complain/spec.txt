@@ -1,7 +1,0 @@
-id customer
-id complain
-description
-status
-id employee
-creation date
-finish date

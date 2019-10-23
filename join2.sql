@@ -13,3 +13,5 @@ join eshop.order_details as od2 on
 	od2.order_id=od.order_id
 where
 	p.product_name = 'Chang';
+
+-- do a full join or left join
